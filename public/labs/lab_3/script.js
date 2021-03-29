@@ -3,7 +3,7 @@ let width = 130;
 let count = 3;
 
 let list = carousel.querySelector('ul');
-let listElems = carousel.querySelectorAll('li');
+let listElems = carousel.querySelectorAll("li");
 
 let position = 0; // ribbon scroll position
 
